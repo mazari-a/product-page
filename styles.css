@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, sans-serif
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .title {
@@ -8,4 +8,25 @@ body {
 
 .main-img {
     box-shadow: 0px 2px 5px lightgray;
+    width: 340px;
+}
+
+.product-wrapper {
+    display: flex;
+    width: 900px;
+    margin: 0 auto;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.product-info-wrapper {
+    width: 525px;
+}
+
+a, a:checked {
+    color: #007185;
+}
+
+.image-wrapper {
+    color: #565959;
 }
