@@ -23,7 +23,7 @@ body {
     width: 525px;
 }
 
-a, a:checked {
+a, a:visited {
     color: #007185;
 }
 
